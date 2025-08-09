@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/RK3568（linux学习）/linux基础知识学习/python入门/","title":{"{ title }":null}}
+{"dg-publish":true,"permalink":"/RK3568（linux学习）/linux基础知识学习/python入门/","title":["object Object"]}
 ---
 
 
